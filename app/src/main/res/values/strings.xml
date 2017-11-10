@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiniVoice</string>
+    <string name="record_button">Record</string>
+    <string name="stop_button">Stop</string>
+    <string name="play_button">Play</string>
+    <string name="msg_error">error</string>
+    <string name="lbl_ok">ok</string>
+</resources>
